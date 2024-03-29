@@ -62,7 +62,7 @@ export default function Home() {
 	return (
 		<main className="flex min-h-screen flex-col items-center  p-24">
 			<header className="py-4 text-white text-center text-2xl font-semibold">
-				AnimeList
+				AnimeSearch
 			</header>
 			<input
 				type="text"
